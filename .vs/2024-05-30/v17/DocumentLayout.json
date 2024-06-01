@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Task 1\\Upcasting-Downcasting-Enum-Exception\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6B528D0-8D1C-4A28-AFB3-D01C1B10ECAB}|Task1\\Task1.csproj|c:\\users\\asus\\desktop\\task 1\\upcasting-downcasting-enum-exception\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6B528D0-8D1C-4A28-AFB3-D01C1B10ECAB}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3619EE94-1663-4DED-9C7E-662A1DD6A877}|CarList\\CarList.csproj|c:\\users\\asus\\desktop\\task 1\\upcasting-downcasting-enum-exception\\carlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3619EE94-1663-4DED-9C7E-662A1DD6A877}|CarList\\CarList.csproj|solutionrelative:carlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3619EE94-1663-4DED-9C7E-662A1DD6A877}|CarList\\CarList.csproj|c:\\users\\asus\\desktop\\task 1\\upcasting-downcasting-enum-exception\\carlist\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3619EE94-1663-4DED-9C7E-662A1DD6A877}|CarList\\CarList.csproj|solutionrelative:carlist\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3619EE94-1663-4DED-9C7E-662A1DD6A877}|CarList\\CarList.csproj|c:\\users\\asus\\desktop\\task 1\\upcasting-downcasting-enum-exception\\carlist\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3619EE94-1663-4DED-9C7E-662A1DD6A877}|CarList\\CarList.csproj|solutionrelative:carlist\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6B528D0-8D1C-4A28-AFB3-D01C1B10ECAB}|Task1\\Task1.csproj|c:\\users\\asus\\desktop\\task 1\\upcasting-downcasting-enum-exception\\task1\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B528D0-8D1C-4A28-AFB3-D01C1B10ECAB}|Task1\\Task1.csproj|solutionrelative:task1\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B528D0-8D1C-4A28-AFB3-D01C1B10ECAB}|Task1\\Task1.csproj|c:\\users\\asus\\desktop\\task 1\\upcasting-downcasting-enum-exception\\task1\\entities\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B528D0-8D1C-4A28-AFB3-D01C1B10ECAB}|Task1\\Task1.csproj|solutionrelative:task1\\entities\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B528D0-8D1C-4A28-AFB3-D01C1B10ECAB}|Task1\\Task1.csproj|c:\\users\\asus\\desktop\\task 1\\upcasting-downcasting-enum-exception\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B528D0-8D1C-4A28-AFB3-D01C1B10ECAB}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Task 1\\Upcasting-Downcasting-Enum-Exception\\CarList\\Car.cs",
+              "RelativeDocumentMoniker": "CarList\\Car.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Task 1\\Upcasting-Downcasting-Enum-Exception\\CarList\\Car.cs",
+              "RelativeToolTip": "CarList\\Car.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T10:37:13.52Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -46,54 +59,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Task 1\\Upcasting-Downcasting-Enum-Exception\\Task1\\Program.cs",
-              "RelativeDocumentMoniker": "Task1\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Task 1\\Upcasting-Downcasting-Enum-Exception\\Task1\\Program.cs",
-              "RelativeToolTip": "Task1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T08:14:15.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Type.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Task 1\\Upcasting-Downcasting-Enum-Exception\\CarList\\Type.cs",
-              "RelativeDocumentMoniker": "CarList\\Type.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Task 1\\Upcasting-Downcasting-Enum-Exception\\CarList\\Type.cs",
-              "RelativeToolTip": "CarList\\Type.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T07:40:09.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Task 1\\Upcasting-Downcasting-Enum-Exception\\CarList\\Car.cs",
-              "RelativeDocumentMoniker": "CarList\\Car.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Task 1\\Upcasting-Downcasting-Enum-Exception\\CarList\\Car.cs",
-              "RelativeToolTip": "CarList\\Car.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Task 1\\Upcasting-Downcasting-Enum-Exception\\Task1\\Entities\\Hotel.cs",
+              "RelativeDocumentMoniker": "Task1\\Entities\\Hotel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Task 1\\Upcasting-Downcasting-Enum-Exception\\Task1\\Entities\\Hotel.cs",
+              "RelativeToolTip": "Task1\\Entities\\Hotel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T07:39:00.821Z",
+              "WhenOpened": "2024-06-01T08:24:39.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Task 1\\Upcasting-Downcasting-Enum-Exception\\CarList\\Program.cs",
-              "RelativeDocumentMoniker": "CarList\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Task 1\\Upcasting-Downcasting-Enum-Exception\\CarList\\Program.cs",
-              "RelativeToolTip": "CarList\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Task 1\\Upcasting-Downcasting-Enum-Exception\\Task1\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "Task1\\Entities\\Room.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Task 1\\Upcasting-Downcasting-Enum-Exception\\Task1\\Entities\\Room.cs",
+              "RelativeToolTip": "Task1\\Entities\\Room.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T07:38:42.103Z",
+              "WhenOpened": "2024-06-01T08:18:31.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Task 1\\Upcasting-Downcasting-Enum-Exception\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Task 1\\Upcasting-Downcasting-Enum-Exception\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:14:15.631Z",
               "EditorCaption": ""
             }
           ]
